@@ -1,0 +1,2 @@
+# Haffmancode
+This is an Algorithm project focusing on Huffman coding. The code demonstrates the time complexity difference of Huffman coding in two scenarios: varying the number of characters and using specific characters with large repetitions. The program measures the execution time for each scenario and visualizes the results using matplotlib. By analyzing the time taken, it provides insights into the efficiency of Huffman coding under different conditions.
